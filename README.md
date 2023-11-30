@@ -1,2 +1,2 @@
 # flexbox-alura
-Projeto criado para o curso de utilização de flexbox oferecido pela Alura
+O projeto Alurinha é um catálogo de cursos e informações sobre a Alura, desenvolvido como parte do curso de utilização de Flexbox e Grid Layout. Destaca-se por explorar essas tecnologias de layout, proporcionando uma experiência visualmente atraente e eficiente na exibição de conteúdo e informações relacionadas aos cursos da Alura.
